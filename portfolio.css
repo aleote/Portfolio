@@ -1,0 +1,144 @@
+/**{
+     
+     background: #000 !important;
+    color: #0f0 !important;
+    outline: solid #f00 1px !important;
+
+}*/
+
+.navbar-brand {
+    font-family: 'Cabin Sketch', cursive;
+}
+
+.aboutme {
+    font-family: 'Cabin Sketch', cursive;
+    font-size: 80px;
+    color: #72A8A2;
+}
+
+p {
+    font-family: 'Abel', sans-serif;
+    font-size: 20px;
+}
+
+strong {
+    font-family: 'Cabin Sketch', cursive;
+    font-size: 25px;
+    color: #72A8A2;
+}
+
+
+
+.jumbotron {
+
+    background-image: url("./images/multiwood.jpg");
+
+    background-size: cover;
+
+    /*background-repeat: no-repeat;*/
+    background-position: center-top;
+}
+
+
+
+
+
+/*.parallax {
+	 background-image: url("https://static.posters.cz/image/1300/fotobehang/whitewash-wood-i21508.jpg");
+	 height: 500px;
+	background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+/*.wood-header, header {
+	width:100%;
+	height:500px;
+}
+*/
+
+
+/*footer {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #efefef;
+  text-align: center;
+  margin-top:30px;
+}*/
+
+.profilePic {
+    height: 90%;
+    width: 90%;
+    padding-top: 40px;
+    border-radius: 50%;
+}
+
+
+.clearfix {
+    overflow: auto;
+    border: 3px solid black;
+    padding: 5px;
+}
+
+.h1,
+h1 {
+    font-size: 40px;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.p1 {
+    color: black;
+    font-size: 40px;
+}
+
+#work {
+    font-family: 'Cabin Sketch', cursive;
+    font-size: 80px;
+    color: #CF6357;
+    text-align: center;
+}
+
+
+
+
+
+#connect {
+    font-family: 'Cabin Sketch', cursive;
+    font-size: 80px;
+    color: #CCB362;
+    text-align: center;
+}
+
+
+
+
+.linkedin {
+    height: 10%;
+    width: 10%;
+    margin-left:100px;
+    margin-right:100px;
+
+}
+
+.email {
+    height: 10%;
+    width: 10%;
+    margin-left:150px;
+    margin-right:200px;
+}
+
+
+.github {
+ 	height: 14%;
+    width: 14%;
+    margin-right:150px;
+    margin-left:200px;
+    
+}
+
